@@ -2,6 +2,8 @@
 
 ## Repo Link:
 
+https://github.com/chronoslou/fitness-tracker
+
 ## Description
 
 This is a fitness tracker with a Mongo database with a Mongoose schema and handle routes with Express.

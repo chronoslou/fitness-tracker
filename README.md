@@ -1,8 +1,14 @@
 # Fitness-tracker
 
-## Repo Link:
+## Link:
+
+### Repo:
 
 https://github.com/chronoslou/fitness-tracker
+
+### Deploy:
+
+https://mysterious-headland-85365.herokuapp.com/
 
 ## Description
 
